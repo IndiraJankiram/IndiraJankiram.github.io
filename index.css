@@ -6,11 +6,27 @@ h1 {
 #header{
     background-image: url('https://img.wallpapersafari.com/desktop/1920/1080/61/22/FUpBAk.jpg');
 }
-p{
+#first{
     color: green;
     border: 2px solid powderblue;
     margin: 50px;
 }
+#second{
+    color: blue;
+    border: 2px solid purple;
+    margin: 50px;
+}
+#third{
+    color: red;
+    border: 2px solid orange;
+    margin: 50px;
+}
+#fourth{
+    color: palevioletred;
+    border: 2px solid greenyellow;
+    margin: 50px;
+}
+
 
 img {
     display: block;
