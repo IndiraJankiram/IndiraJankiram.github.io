@@ -1,0 +1,21 @@
+h1 {
+    
+    color: blueviolet;
+    text-align: center;
+}
+#header{
+    background-image: url('https://img.wallpapersafari.com/desktop/1920/1080/61/22/FUpBAk.jpg');
+}
+p{
+    color: green;
+    border: 2px solid powderblue;
+    margin: 50px;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+
+  }
